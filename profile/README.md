@@ -1,6 +1,6 @@
 # FakeNews
 
-🚩 We are reparing the [FakeCTF 2022](https://ctf.fakenews.sh/): an 8h, on-site cybersecurity competition, hosted in France. 🚩
+🚩 We are preparing the [FakeCTF 2022](https://ctf.fakenews.sh/): an 8h, on-site cybersecurity competition, hosted in France. 🚩
 
 ## 🏆 Achievements
 
