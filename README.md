@@ -1,3 +1,0 @@
-# FakeNews
-
-CTF team
